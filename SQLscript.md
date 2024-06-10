@@ -5,7 +5,7 @@
 
 # Qual o cliente que mais fez pedidos por ano
 
-SELECT ano, cliente AS nome_cliente, num_pedidos
+```SELECT ano, cliente AS nome_cliente, num_pedidos
 FROM (
   SELECT 
     YEAR(ms.data_hora_entrada) AS ano, 
@@ -17,14 +17,14 @@ FROM (
   JOIN tb_cliente cl ON ms.id_cliente = cl.id_cliente
   GROUP BY YEAR(ms.data_hora_entrada), cl.nome_cliente
 ) AS ranked
-WHERE rn = 1;
+WHERE rn = 1;```
 
 
 
 # Qual o cliente que mais gastou em todos os anos
 
 
-SELECT cliente, total_gasto
+```SELECT cliente, total_gasto
 FROM (
   SELECT 
     cl.nome_cliente AS cliente, 
@@ -36,14 +36,14 @@ FROM (
   JOIN tb_cliente cl ON ms.id_cliente = cl.id_cliente
   GROUP BY cl.nome_cliente
 ) AS ranked
-WHERE rn = 1;
+WHERE rn = 1;```
 
 
 
 # Qual(is) o(s) cliente(s) que trouxe(ram) mais pessoas por ano
 
 
-SELECT 
+```SELECT 
     ano,
     cliente,
     num_pessoas
@@ -62,13 +62,13 @@ FROM (
         cliente
 ) AS ranked
 WHERE
-    rn = 1;
+    rn = 1;```
 
 
 
 # Qual a empresa que tem mais funcionarios como clientes do restaurante;
 
-SELECT c.nome_empresa AS company_name, COUNT(DISTINCT e.codigo_funcionario) AS num_employees
+```SELECT c.nome_empresa AS company_name, COUNT(DISTINCT e.codigo_funcionario) AS num_employees
 FROM db_empresa.tb_beneficio e
 JOIN db_empresa.tb_empresa c ON e.codigo_empresa = c.codigo_empresa
 WHERE e.codigo_funcionario IN (
@@ -77,12 +77,12 @@ WHERE e.codigo_funcionario IN (
 )
 GROUP BY c.nome_empresa
 ORDER BY COUNT(DISTINCT e.codigo_funcionario) DESC
-LIMIT 1;
+LIMIT 1;```
 
 
 # Qual empresa que tem mais funcionarios que consomem sobremesas no restaurante por ano;
 
-SELECT c.nome_empresa AS company_name, COUNT(DISTINCT b.codigo_funcionario) AS num_employees
+```SELECT c.nome_empresa AS company_name, COUNT(DISTINCT b.codigo_funcionario) AS num_employees
 FROM db_empresa.tb_beneficio b
 JOIN db_empresa.tb_empresa c ON b.codigo_empresa = c.codigo_empresa
 WHERE b.codigo_funcionario IN (
@@ -94,7 +94,7 @@ WHERE b.codigo_funcionario IN (
 )
 GROUP BY c.nome_empresa
 ORDER BY COUNT(DISTINCT b.codigo_funcionario) DESC
-LIMIT 1;
+LIMIT 1;```
 
 
 - Entregar todos os scripts fisicos atraves de um repositorio git seu que será cadastrado até a segunda-feira 10/06.
