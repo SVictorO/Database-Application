@@ -1,0 +1,125 @@
+,Name,Primary Attribute,Attack Type,Attack Range,Roles,Total Pro wins,Times Picked,Times Banned,Win Rate,Niche Hero?
+0,Abaddon,all,Melee,150,"Support, Carry, Durable",8,24,61,33.33,False
+1,Alchemist,str,Melee,150,"Carry, Support, Durable, Disabler, Initiator, Nuker",23,55,22,41.82,False
+2,Ancient Apparition,int,Ranged,675,"Support, Disabler, Nuker",40,77,73,51.95,False
+3,Anti-Mage,agi,Melee,150,"Carry, Escape, Nuker",40,66,78,60.61,False
+4,Arc Warden,agi,Ranged,625,"Carry, Escape, Nuker",5,14,31,35.71,False
+5,Axe,str,Melee,150,"Initiator, Durable, Disabler, Carry",122,262,222,46.56,False
+6,Bane,all,Ranged,400,"Support, Disabler, Nuker, Durable",84,152,104,55.26,True
+7,Batrider,all,Ranged,400,"Initiator, Disabler, Escape",19,54,105,35.19,False
+8,Beastmaster,all,Melee,150,"Initiator, Disabler, Durable, Nuker",170,333,484,51.05,False
+9,Bloodseeker,agi,Melee,150,"Carry, Disabler, Nuker, Initiator",70,157,461,44.59,False
+10,Bounty Hunter,agi,Melee,150,"Escape, Nuker",33,65,36,50.77,True
+11,Brewmaster,all,Melee,150,"Carry, Initiator, Durable, Disabler, Nuker",125,267,964,46.82,False
+12,Bristleback,str,Melee,150,"Carry, Durable, Initiator, Nuker",55,120,119,45.83,False
+13,Broodmother,all,Melee,175,"Carry, Pusher, Escape, Nuker",9,21,127,42.86,False
+14,Centaur Warrunner,str,Melee,150,"Durable, Initiator, Disabler, Nuker, Escape",95,172,90,55.23,True
+15,Chaos Knight,str,Melee,150,"Carry, Disabler, Durable, Pusher, Initiator",47,85,42,55.29,True
+16,Chen,all,Ranged,650,"Support, Pusher",22,36,173,61.11,False
+17,Clinkz,agi,Ranged,600,"Carry, Escape, Pusher",46,83,90,55.42,False
+18,Clockwerk,all,Melee,150,"Initiator, Disabler, Durable, Nuker",72,139,192,51.8,False
+19,Crystal Maiden,int,Ranged,600,"Support, Disabler, Nuker",160,296,30,54.05,True
+20,Dark Seer,all,Melee,150,"Initiator, Escape, Disabler",86,164,273,52.44,False
+21,Dark Willow,all,Ranged,475,"Support, Nuker, Disabler, Escape",239,476,346,50.21,False
+22,Dawnbreaker,str,Melee,150,"Carry, Durable",236,468,963,50.43,False
+23,Dazzle,all,Ranged,575,"Support, Nuker, Disabler",91,163,398,55.83,False
+24,Death Prophet,int,Ranged,600,"Carry, Pusher, Nuker, Disabler",23,48,62,47.92,False
+25,Disruptor,int,Ranged,625,"Support, Disabler, Nuker, Initiator",80,159,28,50.31,True
+26,Doom,str,Melee,200,"Carry, Disabler, Initiator, Durable, Nuker",98,211,365,46.45,False
+27,Dragon Knight,str,Melee,150,"Carry, Pusher, Durable, Disabler, Initiator, Nuker",36,81,41,44.44,False
+28,Drow Ranger,agi,Ranged,625,"Carry, Disabler, Pusher",43,93,112,46.24,False
+29,Earth Spirit,str,Melee,150,"Nuker, Escape, Disabler, Initiator, Durable",194,374,500,51.87,False
+30,Earthshaker,str,Melee,150,"Support, Initiator, Disabler, Nuker",200,397,372,50.38,False
+31,Elder Titan,str,Melee,150,"Initiator, Disabler, Nuker, Durable",19,37,18,51.35,True
+32,Ember Spirit,agi,Melee,150,"Carry, Escape, Nuker, Disabler, Initiator",87,204,227,42.65,False
+33,Enchantress,int,Ranged,575,"Support, Pusher, Durable, Disabler",69,121,59,57.02,True
+34,Enigma,all,Ranged,500,"Disabler, Initiator, Pusher",11,19,34,57.89,False
+35,Faceless Void,agi,Melee,150,"Carry, Initiator, Disabler, Escape, Durable",85,164,388,51.83,False
+36,Grimstroke,int,Ranged,600,"Support, Nuker, Disabler, Escape",235,488,253,48.16,False
+37,Gyrocopter,agi,Ranged,365,"Carry, Nuker, Disabler",172,333,767,51.65,False
+38,Hoodwink,agi,Ranged,575,"Support, Nuker, Escape, Disabler",68,117,114,58.12,False
+39,Huskar,str,Ranged,400,"Carry, Durable, Initiator",16,40,92,40.0,False
+40,Invoker,all,Ranged,600,"Carry, Nuker, Disabler, Escape, Pusher",243,463,1049,52.48,False
+41,Io,all,Ranged,500,"Support, Escape, Nuker",100,183,570,54.64,False
+42,Jakiro,int,Ranged,400,"Support, Nuker, Pusher, Disabler",81,171,69,47.37,False
+43,Juggernaut,agi,Melee,150,"Carry, Pusher, Escape",35,70,73,50.0,False
+44,Keeper of the Light,int,Ranged,600,"Support, Nuker, Disabler",122,237,279,51.48,False
+45,Kunkka,str,Melee,150,"Carry, Support, Disabler, Initiator, Durable, Nuker",111,231,170,48.05,False
+46,Legion Commander,str,Melee,150,"Carry, Disabler, Initiator, Durable, Nuker",242,452,468,53.54,False
+47,Leshrac,int,Ranged,575,"Carry, Support, Nuker, Pusher, Disabler",44,83,79,53.01,False
+48,Lich,int,Ranged,550,"Support, Nuker",88,206,84,42.72,False
+49,Lifestealer,str,Melee,150,"Carry, Durable, Escape, Disabler",45,101,200,44.55,False
+50,Lina,int,Ranged,670,"Support, Carry, Nuker, Disabler",106,222,234,47.75,False
+51,Lion,int,Ranged,600,"Support, Disabler, Nuker, Initiator",122,255,68,47.84,False
+52,Lone Druid,all,Ranged,550,"Carry, Pusher, Durable",29,66,272,43.94,False
+53,Luna,agi,Ranged,330,"Carry, Nuker, Pusher",67,124,26,54.03,True
+54,Lycan,all,Melee,150,"Carry, Pusher, Durable, Escape",48,95,172,50.53,False
+55,Magnus,all,Melee,150,"Initiator, Disabler, Nuker, Escape",19,58,118,32.76,False
+56,Marci,all,Melee,150,"Support, Carry, Initiator, Disabler, Escape",93,188,171,49.47,False
+57,Mars,str,Melee,250,"Carry, Initiator, Disabler, Durable",83,172,92,48.26,False
+58,Medusa,agi,Ranged,600,"Carry, Disabler, Durable",28,60,209,46.67,False
+59,Meepo,agi,Melee,150,"Carry, Escape, Nuker, Disabler, Initiator, Pusher",4,5,49,80.0,False
+60,Mirana,all,Ranged,630,"Carry, Support, Escape, Nuker, Disabler",43,93,143,46.24,False
+61,Monkey King,agi,Melee,300,"Carry, Escape, Disabler, Initiator",86,171,227,50.29,False
+62,Morphling,agi,Ranged,350,"Carry, Escape, Durable, Nuker, Disabler",63,140,231,45.0,False
+63,Muerta,int,Ranged,575,"Carry, Nuker, Disabler",97,200,140,48.5,False
+64,Naga Siren,agi,Melee,150,"Carry, Support, Pusher, Disabler, Initiator, Escape",50,105,423,47.62,False
+65,Nature's Prophet,int,Ranged,620,"Carry, Pusher, Escape, Nuker",245,412,946,59.47,False
+66,Necrophos,int,Ranged,500,"Carry, Nuker, Durable, Disabler",48,104,194,46.15,False
+67,Night Stalker,str,Melee,150,"Carry, Initiator, Durable, Disabler, Nuker",82,168,231,48.81,False
+68,Nyx Assassin,all,Melee,150,"Disabler, Nuker, Initiator, Escape",28,68,186,41.18,False
+69,Ogre Magi,str,Melee,150,"Support, Nuker, Disabler, Durable, Initiator",87,158,29,55.06,True
+70,Omniknight,str,Melee,150,"Support, Durable, Nuker",34,59,80,57.63,False
+71,Oracle,int,Ranged,620,"Support, Nuker, Disabler, Escape",78,155,124,50.32,True
+72,Outworld Destroyer,int,Ranged,450,"Carry, Nuker, Disabler",67,141,624,47.52,False
+73,Pangolier,all,Melee,150,"Carry, Nuker, Disabler, Durable, Escape, Initiator",225,445,974,50.56,False
+74,Phantom Assassin,agi,Melee,150,"Carry, Escape",272,542,835,50.18,False
+75,Phantom Lancer,agi,Melee,225,"Carry, Escape, Pusher, Nuker",28,53,125,52.83,False
+76,Phoenix,all,Ranged,525,"Support, Nuker, Initiator, Escape, Disabler",84,215,285,39.07,False
+77,Primal Beast,str,Melee,150,"Initiator, Durable, Disabler",185,365,831,50.68,False
+78,Puck,int,Ranged,550,"Initiator, Disabler, Escape, Nuker",88,179,295,49.16,False
+79,Pudge,str,Melee,175,"Disabler, Initiator, Durable, Nuker",101,192,80,52.6,True
+80,Pugna,int,Ranged,630,"Nuker, Pusher",72,134,274,53.73,False
+81,Queen of Pain,int,Ranged,550,"Carry, Nuker, Escape",145,240,414,60.42,False
+82,Razor,agi,Ranged,475,"Carry, Durable, Nuker, Pusher",103,216,385,47.69,False
+83,Riki,agi,Melee,150,"Carry, Escape, Disabler",18,55,135,32.73,False
+84,Rubick,int,Ranged,550,"Support, Disabler, Nuker",233,539,448,43.23,False
+85,Sand King,all,Melee,150,"Initiator, Disabler, Support, Nuker, Escape",37,70,70,52.86,False
+86,Shadow Demon,int,Ranged,500,"Support, Disabler, Initiator, Nuker",122,242,154,50.41,True
+87,Shadow Fiend,agi,Ranged,525,"Carry, Nuker",99,203,185,48.77,False
+88,Shadow Shaman,int,Ranged,400,"Support, Pusher, Disabler, Nuker, Initiator",56,109,27,51.38,True
+89,Silencer,int,Ranged,600,"Carry, Support, Disabler, Initiator, Nuker",59,118,55,50.0,True
+90,Skywrath Mage,int,Ranged,625,"Support, Nuker, Disabler",204,400,235,51.0,True
+91,Slardar,str,Melee,150,"Carry, Durable, Initiator, Disabler, Escape",44,104,99,42.31,False
+92,Slark,agi,Melee,150,"Carry, Escape, Disabler, Nuker",110,215,574,51.16,False
+93,Snapfire,all,Ranged,500,"Support, Nuker, Disabler, Escape",84,152,94,55.26,True
+94,Sniper,agi,Ranged,550,"Carry, Nuker",44,84,67,52.38,True
+95,Spectre,agi,Melee,150,"Carry, Durable, Escape",34,73,76,46.58,False
+96,Spirit Breaker,str,Melee,150,"Carry, Initiator, Disabler, Durable, Escape",97,211,107,45.97,False
+97,Storm Spirit,int,Ranged,480,"Carry, Escape, Nuker, Initiator, Disabler",106,209,219,50.72,False
+98,Sven,str,Melee,150,"Carry, Disabler, Initiator, Durable, Nuker",305,591,772,51.61,False
+99,Techies,all,Ranged,700,"Nuker, Disabler",33,73,117,45.21,False
+100,Templar Assassin,agi,Ranged,200,"Carry, Escape",183,352,496,51.99,False
+101,Terrorblade,agi,Melee,150,"Carry, Pusher, Nuker",97,203,194,47.78,False
+102,Tidehunter,str,Melee,150,"Initiator, Durable, Disabler, Nuker, Carry",161,286,201,56.29,True
+103,Timbersaw,all,Melee,150,"Nuker, Durable, Escape",39,85,221,45.88,False
+104,Tinker,int,Ranged,500,"Carry, Nuker, Pusher",9,26,169,34.62,False
+105,Tiny,str,Melee,150,"Carry, Nuker, Pusher, Initiator, Durable, Disabler",55,113,62,48.67,False
+106,Treant Protector,str,Melee,150,"Support, Initiator, Durable, Disabler, Escape",246,437,767,56.29,False
+107,Troll Warlord,agi,Ranged,500,"Carry, Pusher, Disabler, Durable",98,193,320,50.78,False
+108,Tusk,str,Melee,150,"Initiator, Disabler, Nuker",106,206,199,51.46,False
+109,Underlord,str,Melee,200,"Support, Nuker, Disabler, Durable, Escape",36,68,78,52.94,False
+110,Undying,str,Melee,150,"Support, Durable, Disabler, Nuker",84,177,169,47.46,False
+111,Ursa,agi,Melee,150,"Carry, Durable, Disabler",85,173,226,49.13,False
+112,Vengeful Spirit,all,Ranged,400,"Support, Initiator, Disabler, Nuker, Escape",407,801,764,50.81,False
+113,Venomancer,all,Ranged,450,"Support, Nuker, Initiator, Pusher, Disabler",49,115,340,42.61,False
+114,Viper,agi,Ranged,575,"Carry, Durable, Initiator, Disabler",41,79,260,51.9,False
+115,Visage,all,Ranged,600,"Support, Nuker, Durable, Disabler, Pusher",29,50,246,58.0,False
+116,Void Spirit,all,Melee,200,"Carry, Escape, Nuker, Disabler",62,128,278,48.44,False
+117,Warlock,int,Ranged,600,"Support, Initiator, Disabler",234,517,636,45.26,False
+118,Weaver,agi,Ranged,425,"Carry, Escape",46,100,137,46.0,False
+119,Windranger,all,Ranged,600,"Carry, Support, Disabler, Escape, Nuker",76,165,432,46.06,False
+120,Winter Wyvern,all,Ranged,425,"Support, Disabler, Nuker",21,53,225,39.62,False
+121,Witch Doctor,int,Ranged,550,"Support, Nuker, Disabler",62,145,71,42.76,False
+122,Wraith King,str,Melee,150,"Carry, Support, Durable, Disabler, Initiator",52,99,40,52.53,True
+123,Zeus,int,Ranged,380,"Nuker, Carry",88,159,225,55.35,False
